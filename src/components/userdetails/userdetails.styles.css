@@ -1,0 +1,35 @@
+.user-details-container {
+	display: flex;
+	box-shadow: rgb(50 50 93 / 25%) 0px 2px 5px -1px,
+		rgb(0 0 0 / 30%) 0px 1px 3px -1px;
+	border-radius: 10px;
+	width: 1170px;
+	margin: auto;
+	justify-content: center;
+	border-left: 3px solid purple;
+	border-right: 3px solid purple;
+}
+
+.address {
+	text-align: justify;
+	padding: 20px;
+}
+
+.address h4 {
+	margin: 0;
+}
+
+.address p {
+	margin: 0;
+}
+
+.work {
+	text-align: justify;
+	padding: 20px;
+}
+.work h4 {
+	margin: 0;
+}
+.work p {
+	margin: 0;
+}

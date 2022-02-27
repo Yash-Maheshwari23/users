@@ -1,0 +1,44 @@
+.user-column {
+	border-top: 3px solid purple;
+	border-bottom: 3px solid purple;
+	border-radius: 10px;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+		rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.user-name h1 {
+	margin-bottom: 0;
+}
+.user-name p {
+	color: grey;
+	margin-top: 0;
+	font-size: 18px;
+}
+
+.user-contact {
+	padding-bottom: 20px;
+}
+.user-contact p {
+	margin: 0;
+}
+
+.user-address {
+	padding-bottom: 20px;
+}
+.user-address h4 {
+	margin-top: 0;
+}
+.user-address p {
+	margin: 0;
+}
+
+.user-details-btn {
+	font-family: 'Spectral', serif;
+	background: purple;
+	color: white;
+	margin-bottom: 10px;
+	padding: 8px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
